@@ -1,9 +1,12 @@
 # CONCEPTOSCLAROS_AI_IMAGES
+
 Introduction to Image processing, pattern recognition and deep learning with digital images
 
-Raul Benitez, Phd 
+Raul Benitez, PhD
+
 Universitat Politècnica de Catalunya (Barcelona, Spain)
-raul.benitez@upc.edu
+
+contact: raul.benitez@upc.edu
 
 CONTENTS: 
 
